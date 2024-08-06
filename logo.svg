@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.56"
+     inkscape:cx="126.36719"
+     inkscape:cy="478.125"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath886">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path884" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1036">
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:2.83465;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1038"
+         width="221.46016"
+         height="221.46016"
+         x="275.92026"
+         y="-260.03427"
+         transform="scale(1,-1)" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Шар 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g841"
+       inkscape:export-filename="/home/volodymyr/Документи/projects/butterfly/logo.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="matrix(0.50000028,0,0,0.50000028,17.16506,55.751894)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.2157px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.172269"
+         x="33.658825"
+         y="132.62596"
+         id="text9626"><tspan
+           sodipodi:role="line"
+           id="tspan9624"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7003px;font-family:Karumbi;-inkscape-font-specification:Karumbi;stroke-width:0.172269"
+           x="33.658825"
+           y="132.62596">Butterfly</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.2157px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.172269"
+         x="37.810432"
+         y="137.40685"
+         id="text14184"><tspan
+           sodipodi:role="line"
+           id="tspan14182"
+           style="stroke-width:0.172269"
+           x="37.810432"
+           y="137.40685">fitness clothes</tspan></text>
+      <g
+         id="g60776"
+         transform="matrix(0.65109676,0,0,0.65109676,-13.049701,39.184508)">
+        <g
+           id="g60735"
+           style="stroke:#000000">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 123.97512,125.13392 c -0.71897,-1.36359 -1.69823,-0.2828 -1.31698,0.67489 0.87239,2.19141 2.43405,1.76485 4.10061,5.35582 0.53869,1.16074 0.87225,2.63581 1.54776,4.94481 0.64334,2.19906 1.98473,3.17659 2.57207,4.25654 0.5749,1.05707 1.64307,2.67206 2.33435,3.9146 2.44421,4.39332 2.38659,0.79663 1.76387,-0.7279 -0.95894,-2.34765 -2.06628,-3.5759 -4.47246,-5.89104 -0.68917,-0.66309 -1.37552,-1.02543 -1.81582,-1.97329 -0.34536,-0.74346 -0.53715,-2.04631 -0.57237,-2.79562 -0.17804,-3.78764 -0.44726,-9.67058 0.88052,-14.23571 0.78916,-2.71328 2.25164,-8.39525 4.74645,-7.0684 2.19143,1.16551 1.1533,6.80653 3.49836,9.56649 1.33843,1.57524 1.83801,4.90504 -0.16559,7.26918 -1.48474,1.75192 -2.56553,3.73834 -4.36601,5.16381 -0.85274,0.67513 -1.26175,0.55017 -0.90548,-0.61768 0.26914,-0.88222 0.76619,-1.70495 1.44115,-2.36217 1.03254,-1.0054 2.31419,-1.77741 3.99824,-1.64522 2.0564,0.16142 3.55889,1.8909 4.88064,3.80434 1.34962,1.95378 1.16033,5.09646 0.46855,7.626 -0.35041,1.2813 -0.70427,3.04891 -1.77795,3.56644 -1.31865,0.63561 -4.30956,-1.84734 -5.85436,-3.61848 -1.43013,-1.63965 -1.72373,-3.5605 -0.42867,-4.26534 1.61161,-0.87713 3.16222,-0.84085 2.65268,0.59665 -0.57471,1.62133 -3.83646,1.23076 -5.36244,0.27932 -1.90711,-1.18909 -1.91496,-3.10898 -1.86907,-5.9881 0.047,-2.94847 0.41686,-5.71071 1.40817,-8.74127 0.50872,-1.55522 1.79269,-1.8864 2.14872,-0.25077 0.69445,3.19033 -0.78102,6.79538 -1.95527,9.59798 -0.60425,1.44217 -1.48207,4.38277 -2.48308,3.97982 -0.85148,-0.34276 -1.74675,-0.88449 -2.65288,-0.73808 -0.65106,0.10519 -0.5303,1.13991 0.0222,1.55343 0.43567,0.32608 1.1443,0.0255 1.261,-0.44153 0.25179,-1.00774 -1.31193,-2.50094 -2.51078,-3.56363 -1.97308,-1.74899 -3.82938,-2.45017 -5.88645,-4.09957 -1.65352,-1.32582 0.0533,-2.75474 0.87654,-0.67983"
+             id="path48083"
+             sodipodi:nodetypes="cssssssssssssssssssssssssssssssssssc" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 139.29697,113.79703 c 1.88792,-3.26082 5.09583,-3.61174 6.43671,-0.0938 0.99502,2.61054 -0.71806,5.43397 0.62733,7.26371 2.45573,3.33981 -0.33596,6.06422 -2.20059,7.17449 -2.22446,1.32453 -4.42414,2.69433 -6.56571,4.14907 -1.12133,0.7617 -2.37828,0.25197 -1.019,-0.53287 1.7972,-1.03769 4.7417,-1.37598 8.00749,-1.38512 2.66048,-0.007 6.7356,0.82419 5.22677,6.02217 -0.71748,2.47175 -6.17582,10.60303 -11.81969,5.70954 -3.74356,-3.24585 -2.49106,-3.09792 0.024,-2.06778 2.65148,1.086 6.6935,1.16402 7.1219,-2.90435 0.38358,-3.64277 -1.76782,-5.21202 -5.08717,-4.21712 -6.20928,1.86108 -4.93132,-0.3218 -4.1289,-1.55416 1.60682,-2.46775 5.71336,-5.7295 2.71188,-10.27164 -2.27642,-3.4449 -0.558,-5.17983 0.66496,-7.29214 z"
+           id="path57442"
+           sodipodi:nodetypes="sssssssssssssss" />
+      </g>
+    </g>
+  </g>
+</svg>
